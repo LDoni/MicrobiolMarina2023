@@ -68,6 +68,8 @@ library(ranacapa)
 library(ggside)
 library(ggpubr)
 library(grid)
+
+devtools::install_github("gauravsk/ranacapa")
 ```
 #import data for the phyloseq object ( ASVs table, Tax table, metadata table)
 ```r
